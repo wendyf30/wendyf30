@@ -1,1 +1,29 @@
-
+html {
+  height: 100%;
+  width: 100%;
+}
+#heading{
+  font-size: 5.5em;
+  color: #ffffff;
+  font-family: Georgia;
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+  padding:4px;
+  text-shadow: 1px 1px 2px #FF69B4, 0 0 25px #F33A6A, 0 0 5px #E0115F;
+}
+.Send Flowers-regular {
+  font-family: "Georgia", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  color: #ffffff;
+}
+h2{
+  font-family: "Georgia", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  text-align:center;
+  font-size: 60px;
+  color: #FF69B4;
+  text-shadow:1px 1px 2px #ffffff;
+}
